@@ -19,4 +19,7 @@ Key Lights -> Ch8. Lights
 
 You should now be all set to run Synthesia and have the Lights Guide you on the Komplete Kontrol keyboard.
 
+I have added a "funlights" demo, this is not using any MIDI stuff, but just controls the lights. See for demo:
+https://www.instagram.com/p/BZTdar0DLU6/
+
 (Tested with Komplete Kontrol S61)
