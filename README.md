@@ -6,9 +6,9 @@ You will need Python (on windows), Synthesia, Komplete Kontrol, loopbe1
 
 Add the following libraries to python by using the pip command:
 
-pip install pywinusb
-pip install mido
-pip python-rtmidi
+- pip install pywinusb
+- pip install mido
+- pip python-rtmidi
 
 Disable in Komplete Kontrol the Light Guide, you can find this option in the preference -> Hardware settings window
 
